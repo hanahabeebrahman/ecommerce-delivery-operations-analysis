@@ -1,0 +1,42 @@
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Jupyter Notebook temporary files
+.ipynb_checkpoints/
+
+# Environment variables and credentials
+.env
+.env.*
+!.env.example
+*credentials*
+*secrets*
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor settings
+.vscode/
+.idea/
+
+# Temporary and log files
+*.log
+*.tmp
+*.bak
+
+# Temporary exports
+*.xlsx
+*.xls
+
+# Temporary database files
+*.sqlite
+*.db
